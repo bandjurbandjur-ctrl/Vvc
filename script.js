@@ -33,7 +33,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 showNextQuestion();
             } else {
                 btn.classList.add("active");
-                btn.textContent = "bla bla bla, probaj opet 😜";
+                btn.textContent = "🙄";
 
                 setTimeout(() => {
                     btn.textContent = "Da";
